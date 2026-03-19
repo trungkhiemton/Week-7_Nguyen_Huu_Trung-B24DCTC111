@@ -20,7 +20,7 @@ Dữ liệu gốc chứa hơn 30 thuộc tính (features) bao gồm độ tuổi
 Dự án được chia thành 7 notebooks tương ứng với 7 khía cạnh khác nhau của bài toán Data Science:
 
 - **`1_Regression_PredictingG3.ipynb`**: Xây dựng mô hình Hồi quy tuyến tính (Linear Regression) để dự đoán điểm số cuối kỳ `G3`.
-- **`2_Classification-Passfail.ipynb`**: Chuyển đổi bài toán thành Phân loại nhị phân (Đỗ/Trượt) sử dụng Hồi quy Logistic / Random Forest.
+- **`2_Classification_Passfail.ipynb`**: Chuyển đổi bài toán thành Phân loại nhị phân (Đỗ/Trượt) sử dụng Hồi quy Logistic / Random Forest.
 - **`3_Clustering_StudentSegmentation_K-means.ipynb`**: Phân nhóm học sinh (Segmentation) bằng thuật toán học không giám sát K-Means Clustering và tìm kiếm cụm tối ưu qua phương pháp Elbow.
 - **`4_DimensionReduction_PCA.ipynb`**: Giảm chiều dữ liệu (Dimensionality Reduction) từ hơn 30 đặc trưng xuống không gian 2D bằng thuật toán PCA.
 - **`5_EDA.ipynb`**: Phân tích khám phá dữ liệu (Exploratory Data Analysis), trực quan hóa phân phối điểm số và ma trận tương quan giữa các biến.
