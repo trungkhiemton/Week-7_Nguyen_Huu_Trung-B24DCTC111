@@ -4,7 +4,7 @@ Dự án Machine Learning toàn diện (End-to-End) phân tích và dự đoán 
 
 ## Tổng quan dự án (Project Overview)
 
-Mục tiêu của dự án này là áp dụng các kỹ thuật Học máy (Machine Learning) đa dạng để khai thác bộ dữ liệu **Student Performance**. Không chỉ dừng lại ở việc dự đoán điểm số cuối kỳ (`G3`), dự án còn đi sâu vào phân tích các yếu tố ảnh hưởng, phân nhóm học sinh, giải thích quyết định của mô hình (Explainable AI) và đánh giá tính công bằng (Ethical AI).
+Mục tiêu của dự án này là áp dụng các kỹ thuật Học máy (Machine Learning) đa dạng để khai thác bộ dữ liệu **Student Performance**. Bước đầu dự đoán điểm số cuối kỳ (`G3`), sau đó đi sâu vào phân tích các yếu tố ảnh hưởng, phân nhóm học sinh, giải thích quyết định của mô hình (Explainable AI) và đánh giá tính công bằng (Ethical AI).
 
 ## Dữ liệu (Dataset)
 
